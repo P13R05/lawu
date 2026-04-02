@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Debajo de la importación, definimos los colores de la marca */
+@theme {
+  --color-lawu-olive: #7d7044;
+  --color-lawu-cream: #fdfcf0;
+  --color-lawu-dark: #4a422a;
+  --color-lawu-accent: #c2a378;
+}

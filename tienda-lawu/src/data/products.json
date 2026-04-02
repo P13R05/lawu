@@ -1,0 +1,34 @@
+[
+  {
+    "id": "cafe-especialidad-colombia",
+    "nombre": "Café de Especialidad Colombia",
+    "precio": 14990,
+    "categoria": "Café",
+    "imagen": "/images/cafe-colombia.jpg", 
+    "descripcion": "Notas a caramelo y frutos rojos, tueste medio."
+  },
+  {
+    "id": "te-roiboos-relax",
+    "nombre": "Infusión Rooibos Relax",
+    "precio": 8990,
+    "categoria": "Té & Infusiones",
+    "imagen": "/images/roibo.webp", 
+    "descripcion": "Mezcla relajante sin teína con notas cítricas."
+  },
+  {
+    "id": "prensa-francesa-acero",
+    "nombre": "Prensa Francesa Acero Inoxidable",
+    "precio": 28990,
+    "categoria": "Accesorios",
+    "imagen": "/images/prensa-francesa.jpg",
+    "descripcion": "Capacidad 1000ml, mantiene el calor por más tiempo."
+  },
+  {
+    "id": "pack-degustacion-lawu",
+    "nombre": "Pack Degustación Lawü",
+    "precio": 35000,
+    "categoria": "Packs & Regalos",
+    "imagen": "/images/pack-regalo.jpg",
+    "descripcion": "Selección de 3 variedades de café de 250g."
+  }
+]
