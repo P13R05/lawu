@@ -4,7 +4,7 @@
     "nombre": "Café de Especialidad Colombia",
     "precio": 14990,
     "categoria": "Café",
-    "imagen": "/images/cafe-colombia.jpg", 
+    "imagen": "/images/cafeColombia.webp", 
     "descripcion": "Notas a caramelo y frutos rojos, tueste medio."
   },
   {
@@ -20,7 +20,7 @@
     "nombre": "Prensa Francesa Acero Inoxidable",
     "precio": 28990,
     "categoria": "Accesorios",
-    "imagen": "/images/prensa-francesa.jpg",
+    "imagen": "/images/prensa-francesa.webp",
     "descripcion": "Capacidad 1000ml, mantiene el calor por más tiempo."
   },
   {
@@ -28,7 +28,7 @@
     "nombre": "Pack Degustación Lawü",
     "precio": 35000,
     "categoria": "Packs & Regalos",
-    "imagen": "/images/pack-regalo.jpg",
+    "imagen": "/images/pack-regalo.webp",
     "descripcion": "Selección de 3 variedades de café de 250g."
   }
 ]
